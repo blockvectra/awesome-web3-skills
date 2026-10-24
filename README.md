@@ -181,6 +181,18 @@ Inspired by [awesome-uniswap-hooks](https://github.com/fewwwww/awesome-uniswap-h
 
 ---
 
+#### [BlockVectra MCP](https://github.com/blockvectra/mcp)
+> EVM RPC, indexed data, and keyless documentation for blockchain agents.
+
+**Modules / Capabilities:**
+- `Docs & Discovery` — search documentation and inspect supported chains, pricing, and status without an API key
+- `RPC Reads` — query EVM JSON-RPC through each chain's public or keyed endpoint
+- `Indexed Data` — query the Data API with your own BlockVectra API key
+
+**Access:** Official MCP (Streamable HTTP) · keyless RPC follows each chain's public method policy · API key required for indexed data and keyed RPC
+
+---
+
 ### Security & Risk
 
 #### [SlowMist MistTrack MCP](https://github.com/slowmist/MistTrackMCP)
